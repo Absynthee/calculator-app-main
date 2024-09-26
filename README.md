@@ -13,8 +13,6 @@ This is a solution to the [Calculator app challenge on Frontend Mentor](https://
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Absynthee/social-links-profile-main)
-- Live Site URL: [Github Pages](https://absynthee.github.io/social-links-profile-main/)
+- Solution URL: [Github](https://github.com/Absynthee/calculator-app-main)
+- Live Site URL: [Github Pages](https://absynthee.github.io/calculator-app-main/)
 
 ## My process
 
