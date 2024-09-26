@@ -166,7 +166,7 @@ main {
 .Calc-buttons {
   display: grid;
   background-color: var(--theme-calc-bg);
-  height: 440px;
+  min-height: 440px;
   width: 500px;
   padding: 1rem;
   border-radius: 0.5rem;
@@ -234,4 +234,29 @@ main {
 
 .Equal-button {
   grid-column: 3/5;
+}
+
+@media screen and (max-width: 550px) {
+  header {
+    max-width: 310px;
+    width: 100%;
+  }
+
+  .Calc-container {
+    font-size: 2rem;
+  }
+
+  .Output {
+    font-size: 2.25rem;
+  }
+
+  .Calc-buttons {
+    width: unset;
+    
+    span {
+      min-width: 55px;
+      min-height: 70px;
+      margin: 0.5rem;
+    }
+  }
 }
